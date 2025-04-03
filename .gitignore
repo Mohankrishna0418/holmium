@@ -26,3 +26,21 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+
+
+
+#value ZNy8Q~J23LID4EAlmyr3y-yEuvD2QOOiKiwfaahd
+#secretid d3ef042f-94f0-46a0-84dc-11ae55a5141f
+#tenentid 325b9b6d-6cc7-4f4c-836d-72833b08769e
+#subid 7ae0fa69-aed3-4f25-b652-582c632274c0
+
+
+# {
+#     "clientSecret":  "ZNy8Q~J23LID4EAlmyr3y-yEuvD2QOOiKiwfaahd",
+#     "subscriptionId":  "7ae0fa69-aed3-4f25-b652-582c632274c0",
+#     "tenantId":  "325b9b6d-6cc7-4f4c-836d-72833b08769e",
+#     "clientId":  "fbcd9fdd-2ccf-453d-9ac6-97797c63332b"
+# }
+
+
+#{"clientSecret":"ZNy8Q~J23LID4EAlmyr3y-yEuvD2QOOiKiwfaahd","subscriptionId":"7ae0fa69-aed3-4f25-b652-582c632274c0","tenantId":"325b9b6d-6cc7-4f4c-836d-72833b08769e","clientId":"fbcd9fdd-2ccf-453d-9ac6-97797c63332b"}
